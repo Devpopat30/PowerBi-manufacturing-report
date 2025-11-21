@@ -14,4 +14,4 @@ Maintenance activity performance
 
 Plant-wise comparison & trends
 
-The dataset is fully synthetic but designed to mimic real-world manufacturing variability, ensuring meaningful KPIs and actionable insights.
+
